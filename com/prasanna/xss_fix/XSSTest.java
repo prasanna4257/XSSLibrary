@@ -1,6 +1,6 @@
 package com.prasanna.xss_fix;
 
-import static com.prasanna.xss_fix.SynataxConstantsInterface.*;
+import static com.prasanna.xss_fix.SyntaxConstantsInterface.*;
 
 public class XSSTest {
 
