@@ -1,4 +1,4 @@
-An alternate to E****.jar file, I have developed this few lines of code to resolve the XSS issues. 
+An alternate to **Security API jars, I have developed this few lines of code to resolve the XSS issues.** 
 
 **Note: Regex will not resolve the XSS issues. Based on the requirement, customization can be possible here**
 
